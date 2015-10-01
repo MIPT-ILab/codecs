@@ -1,5 +1,6 @@
 /metrics/streams
 /metrics/bin
 /filters/streams
+/filters/bin
 *.user
 *.suo
