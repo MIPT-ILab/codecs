@@ -1,0 +1,10 @@
+E:\projects\MultimediaILab\bin\Release\vcompare.exe
+E:\projects\MultimediaILab\bin\Release\vcompare.pdb
+E:\projects\MultimediaILab\source\YUVCompare\obj\Release\ResolveAssemblyReference.cache
+E:\projects\MultimediaILab\source\YUVCompare\obj\Release\vcompare.exe
+E:\projects\MultimediaILab\source\YUVCompare\obj\Release\vcompare.pdb
+E:\projects\ILab\MultimediaILab\bin\Release\vcompare.exe
+E:\projects\ILab\MultimediaILab\bin\Release\vcompare.pdb
+E:\projects\ILab\MultimediaILab\source\YUVCompare\obj\Release\ResolveAssemblyReference.cache
+E:\projects\ILab\MultimediaILab\source\YUVCompare\obj\Release\vcompare.exe
+E:\projects\ILab\MultimediaILab\source\YUVCompare\obj\Release\vcompare.pdb
